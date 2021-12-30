@@ -15,6 +15,7 @@
 [<img align="left" alt="OfirYaron | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="OfirYaron | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="OfirYaron | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="OfirYaron | Thingiverse" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonape.com%2Fthingiverse-logo-logo-icon-svg-png.html&psig=AOvVaw2xG6pW5jWeB5KX6_3E3uNX&ust=1640944975205000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCu48aii_UCFQAAAAAdAAAAABAD" />][thingiverse]
 
 <br />
 
@@ -43,6 +44,7 @@
 [twitter]: https://twitter.com/ofiryaron
 [instagram]: https://instagram.com/ofiryaron
 [linkedin]: https://linkedin.com/in/ofiryaron
+[thingiverse] https://www.thingiverse.com/ofiryaron/designs
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
