@@ -15,7 +15,7 @@
 [<img align="left" alt="OfirYaron | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="OfirYaron | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="OfirYaron | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="OfirYaron | Thingiverse" width="22px" src="https://getapp.cc/app/636202382" />][thingiverse]
+[<img align="left" alt="OfirYaron | Thingiverse" width="22px" src="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/7d/5a/48/7d5a48e9-35c8-7abe-84e0-f46b03aef4b7/source/60x60bb.jpg" />][thingiverse]
 
 <br />
 
