@@ -43,3 +43,4 @@
 [twitter]: https://twitter.com/ofiryaron
 [instagram]: https://instagram.com/ofiryaron
 [linkedin]: https://linkedin.com/in/ofiryaron
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
