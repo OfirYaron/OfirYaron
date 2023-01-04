@@ -7,7 +7,7 @@
 - 🔭 I work as a CTO @ Wobi Ltd, Solution Architect Advisor and 3D parts Manucaturer
 - 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate with other small manufactorers.
-- 🥅 2020 Goals: Contribute more to Open Source projects, Work on my own Branded 3D Printed Product
+- 🥅 2023 Goals: Contribute more to Open Source projects, Learn AI, Work on my own Branded 3D Printed Product
 - ⚡ Fun fact: I'm brewing my own beer for over a decade and Love extream sport.
 
 ### Connect with me:
