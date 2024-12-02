@@ -4,7 +4,7 @@
 
 ## I'm a Father, Solution Architect ,Developer and Maker!!
 
-- 🔭 I work as a CTO @ Wobi Ltd, Solution Architect Advisor and 3D parts Manucaturer
+- 🔭 I am a Solution Architect Advisor, Software Developer and Architect, worked as a CTO @ Wobi Ltd and a Tech lead before that, and also a small 3D parts Manucaturer
 - 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate with other small manufactorers.
 - 🥅 2023 Goals: Contribute more to Open Source projects, Learn AI, Work on my own Branded 3D Printed Product
